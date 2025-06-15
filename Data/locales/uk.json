@@ -3635,7 +3635,7 @@
 "artifact.StickyNote.name": "КЛЕЙКИЙ ЛИСТОК",
 "artifact.StrongStart.desc": "Отримайте 1 <c=status>BOOST</c> на початку вашого першого ходу бою.",
 "artifact.StrongStart.name": "СИЛЬНИЙ СТАРТ",
-"artifact.StunCalibrator.desc": "Пiсля вашоï першоï атаки кожного ходу отримаэте 1 <c=status>stun charge</c>.",
+"artifact.StunCalibrator.desc": "Пiсля вашоï першоï атаки кожного ходу отримаэте 1 <c=status>шоковий заряд</c>.",
 "artifact.StunCalibrator.name": "КАЛIБРАТОР ШОКУ",
 "artifact.SubzeroHeatsinks.desc": "<c=status>Жара</c> може бути знижена\nдо -3.",
 "artifact.SubzeroHeatsinks.name": "СУБНОЛЬОВI РАДIАТОРИ",
