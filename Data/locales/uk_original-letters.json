@@ -4804,7 +4804,7 @@
 "tutorial.intent.status_global": "Ворог збирається дати тобі <c=status>статус</c>.\nЦього не можна ухилитися. Будь готовий!",
 "tutorial.parttrait.armor": "Ця частина має <c=keyword>БРОНЮ</c>!\nВона отримує на один удар менше шкоди!",
 "tutorial.parttrait.brittle": "Ця частина <c=keyword>КРИХКА</c>!\nВона отримує <c=downside>подвоєну</c> шкоду від атак!",
-"tutorial.parttrait.concussable": "Ця частина <c=keyword>УРАЖАЄМА</c>!\nБудь-який постріл сюди скасовує наміри цієї частини на цей хід!",
+"tutorial.parttrait.concussable": "Ця частина <c=keyword>ВРАЗЛИВА</c>!\nБудь-який постріл сюди скасовує наміри цієї частини на цей хід!",
 "tutorial.parttrait.empty": "Тут немає частини корабля, це <c=keyword>ПУСТО</c>!\nПостріли сюди промахнуться!",
 "tutorial.parttrait.weak": "Ця частина <c=keyword>СЛАБКА</c>!\nВона отримує на один удар більше шкоди!",
 "uiFallback.capPerCombat": "Максимум {0} за бій.",
