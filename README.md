@@ -1,6 +1,7 @@
 # 🇺🇦 Cobalt Core — українська локалізація
 
-Це машинний переклад (оригінал English) із частковою вичиткою гри [**Cobalt Core**](https://store.steampowered.com/app/2179850/Cobalt_Core/) українською мовою.
+Це переклад гри [**Cobalt Core**](https://store.steampowered.com/app/2179850/Cobalt_Core/) українською мовою (оригінал English).
+Переклад створений за допомогою сучасних ШІ-інструментів із подальшою точковою перевіркою та редагуванням.
 
 ## 📥 Встановлення
 
@@ -14,13 +15,6 @@
 
 ---
 
-## ~~❗ Проблеми зі шрифтом~~
-
-Було виправлено у оновленні 1.2.5
-
----
-
 ## 💬 Зворотний зв’язок
 
-Знайшли помилки або маєте пропозиції?  
-Створіть [issue або pull request](https://github.com/imhvost/Cobalt-Core-Ukrainian-Localization/issues).
+[issue або pull request](https://github.com/imhvost/Cobalt-Core-Ukrainian-Localization/issues).
